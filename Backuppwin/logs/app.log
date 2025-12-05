@@ -1,0 +1,4 @@
+2025-12-05 18:41:06 | INFO     | app.services.file_search:search_files:36 - Searching: C:/Users/daodo/Desktop/SKILL BLOG, pattern: *, ext: None
+2025-12-05 18:41:06 | INFO     | app.services.file_search:search_files:65 - Found 4 files
+2025-12-05 18:49:45 | INFO     | app.services.file_search:search_files:36 - Searching: C:/Users/daodo/Desktop/SKILL BLOG, pattern: *, ext: None
+2025-12-05 18:49:45 | INFO     | app.services.file_search:search_files:65 - Found 4 files
