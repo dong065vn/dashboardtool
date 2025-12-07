@@ -47,6 +47,7 @@ class ToolDashboard:
             ("tuychon", "Tuy chinh Windows", "Tuy chinh Windows/Tuy chinh Windows.exe"),
             ("tienich", "Tien ich cai Win dao", "Tien ich cai win dao v2.1.1.4/Tien ich cai win dao v2.1.1.4.exe"),
             ("quanly", "Quan ly file/folder", "Quan ly file_folder v1.8/Quan ly file_folder v1.8.exe"),
+            ("fixboot", "Fix Boot Win AIO", "FIX_BOOTWIN_AIO/PITROYTECH_BOOT_FIX_AIO_V1.0.exe"),
         ]
         
         for i, (tid, name, path) in enumerate(tools):

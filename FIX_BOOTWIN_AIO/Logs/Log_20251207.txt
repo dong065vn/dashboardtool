@@ -1,0 +1,48 @@
+LOG START: 2025-12-07 10:02:41
+[10:02:41] [INFO] ----------------------------------------------------------------
+[10:02:41] [SUCCESS] PHẦN MỀM ĐÃ KHỞI CHẠY THÀNH CÔNG - Phiên bản: 1.0 Final
+[10:02:41] [INFO] ----------------------------------------------------------------
+[10:02:41] [INFO] Đang kiểm tra hệ thống...
+[10:02:41] [SUCCESS]  + Thư viện .NET & PowerShell: Đã tải đầy đủ.
+[10:02:41] [SUCCESS]  + File hệ thống [mbr2gpt.exe]: Sẵn sàng
+[10:02:41] [SUCCESS]  + File hệ thống [diskpart.exe]: Sẵn sàng
+[10:02:41] [SUCCESS]  + File hệ thống [bcdboot.exe]: Sẵn sàng
+[10:02:41] [SUCCESS]  + File hệ thống [bootsect.exe]: Sẵn sàng
+[10:02:41] [SUCCESS] => MÔI TRƯỜNG HOÀN HẢO.
+[10:02:41] [INFO] ----------------------------------------------------------------
+[10:02:41] [INFO] Đang tải danh sách ổ đĩa...
+[10:02:44] [INFO] Selected Get-Disk provider
+[10:02:44] [DEBUG] Using Get-Disk provider
+[10:02:44] [SUCCESS] Đã tải xong 1 ổ đĩa.
+LOG START: 2025-12-07 10:03:24
+[10:03:24] [INFO] ----------------------------------------------------------------
+[10:03:24] [SUCCESS] PHẦN MỀM ĐÃ KHỞI CHẠY THÀNH CÔNG - Phiên bản: 1.0 Final
+[10:03:24] [INFO] ----------------------------------------------------------------
+[10:03:24] [INFO] Đang kiểm tra hệ thống...
+[10:03:24] [SUCCESS]  + Thư viện .NET & PowerShell: Đã tải đầy đủ.
+[10:03:24] [SUCCESS]  + File hệ thống [mbr2gpt.exe]: Sẵn sàng
+[10:03:24] [SUCCESS]  + File hệ thống [diskpart.exe]: Sẵn sàng
+[10:03:24] [SUCCESS]  + File hệ thống [bcdboot.exe]: Sẵn sàng
+[10:03:24] [SUCCESS]  + File hệ thống [bootsect.exe]: Sẵn sàng
+[10:03:24] [SUCCESS] => MÔI TRƯỜNG HOÀN HẢO.
+[10:03:24] [INFO] ----------------------------------------------------------------
+[10:03:24] [INFO] Đang tải danh sách ổ đĩa...
+[10:03:25] [INFO] Selected Get-Disk provider
+[10:03:25] [DEBUG] Using Get-Disk provider
+[10:03:26] [SUCCESS] Đã tải xong 1 ổ đĩa.
+LOG START: 2025-12-07 10:10:19
+[10:10:19] [INFO] ----------------------------------------------------------------
+[10:10:19] [SUCCESS] PHẦN MỀM ĐÃ KHỞI CHẠY THÀNH CÔNG - Phiên bản: 1.0 Final
+[10:10:19] [INFO] ----------------------------------------------------------------
+[10:10:20] [INFO] Đang kiểm tra hệ thống...
+[10:10:20] [SUCCESS]  + Thư viện .NET & PowerShell: Đã tải đầy đủ.
+[10:10:20] [SUCCESS]  + File hệ thống [mbr2gpt.exe]: Sẵn sàng
+[10:10:20] [SUCCESS]  + File hệ thống [diskpart.exe]: Sẵn sàng
+[10:10:20] [SUCCESS]  + File hệ thống [bcdboot.exe]: Sẵn sàng
+[10:10:20] [SUCCESS]  + File hệ thống [bootsect.exe]: Sẵn sàng
+[10:10:20] [SUCCESS] => MÔI TRƯỜNG HOÀN HẢO.
+[10:10:20] [INFO] ----------------------------------------------------------------
+[10:10:20] [INFO] Đang tải danh sách ổ đĩa...
+[10:10:21] [INFO] Selected Get-Disk provider
+[10:10:21] [DEBUG] Using Get-Disk provider
+[10:10:21] [SUCCESS] Đã tải xong 1 ổ đĩa.
